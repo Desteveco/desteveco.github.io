@@ -47,6 +47,11 @@ nav div div:hover{
     padding-right: 2%;
 }
 
+div div p{
+    color: white;
+    padding: 5%;
+}
+
 @media (max-width: 600px){
     nav div{
         flex-direction: column;
